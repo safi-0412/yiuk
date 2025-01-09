@@ -1,4 +1,4 @@
-const  username = +prompt("ismingizni kiriting")
+const  username = prompt("ismingizni kiriting")
 const  userlogin = +prompt("loginisni kiriting")
 const  userpassword = +prompt("parolisni kiriting")
 
